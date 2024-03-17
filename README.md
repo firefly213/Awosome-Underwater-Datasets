@@ -12,9 +12,3 @@ Underwater Image Enhancement （UIE)
 |RUIE benchmark|[Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)|[Paper](https://arxiv.org/abs/1901.05320)||
 |UMIE dataset|[Data](https://github.com/Idea89560041/UMIE)|[Paper](https://ieeexplore.ieee.org/document/10275315)|unpaired data; UMRD|
 ||[Data]()|[Paper]()||
-||[Data]()|[Paper]()||
-
-
-
-- RUIE benchmark: [Data](), [Paper](). (RUIE-Net)
-- : [Data](), [Paper](). ()
