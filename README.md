@@ -11,7 +11,7 @@ Underwater Image Enhancement （UIE)
 |RUIE benchmark|[Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)|[Paper](https://arxiv.org/abs/1901.05320)|unpaired data; UCCS, UIQS, UTTS|
 |[UMIE dataset](#UMIE-dataset)|[Data](https://github.com/Idea89560041/UMIE)|[Paper](https://ieeexplore.ieee.org/document/10275315)|unpaired data; UMRD|
 |SeaThru dataset|[Data](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset?resource=download)|[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf)|unpaired data; RGB-D|
-|RQSD-UI dataset|[Data](https://justwj.github.io/CLUIE-Net.html/)|[Paper](https://justwj.github.io/CLUIE-Net.html/)|1635 raw*12 enhance results, QSmaps; CLUIE|
+|RQSD-UI dataset|[Data](https://justwj.github.io/CLUIE-Net.html/)|[Paper](https://justwj.github.io/CLUIE-Net.html/)|1635 raw from SUIM*12 enhance results, QSmaps; CLUIE|
 
 Underwater NeRF
 ----------------------------
