@@ -10,6 +10,7 @@ Underwater Image Enhancement （UIE)
 |SQUID dataset|[Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html)|[Paper](https://arxiv.org/abs/1811.01343)|paired data|
 |RUIE benchmark|[Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)|[Paper](https://arxiv.org/abs/1901.05320)|unpaired data; UCCS, UIQS, UTTS|
 |[UMIE dataset](#UMIE-dataset)|[Data](https://github.com/Idea89560041/UMIE)|[Paper](https://ieeexplore.ieee.org/document/10275315)|unpaired data; UMRD|
+|SeaThru|[Data](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset?resource=download)|[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf)|unpaired data; RGB-D|
 ||[Data]()|[Paper]()||
 
 Underwater NeRF
