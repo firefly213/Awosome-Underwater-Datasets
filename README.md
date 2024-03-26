@@ -24,7 +24,8 @@ Underwater NeRF
 Other
 ---------------------------
 |Dataset|Data|Paper|More|
-||[Data](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA)|[Paper](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA)|图像模糊度评价数据集|
+| --- | --- | --- | --- |
+|SSRanking|[Data](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA)|[Paper](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA)|图像模糊度评价数据集|
 ||[Data]()|[Paper]()||
 
 #### UMIE dataset
