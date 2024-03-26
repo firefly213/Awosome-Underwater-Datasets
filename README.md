@@ -12,12 +12,19 @@ Underwater Image Enhancement （UIE)
 |[UMIE dataset](#UMIE-dataset)|[Data](https://github.com/Idea89560041/UMIE)|[Paper](https://ieeexplore.ieee.org/document/10275315)|unpaired data; UMRD|
 |SeaThru dataset|[Data](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset?resource=download)|[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf)|unpaired data; RGB-D|
 |RQSD-UI dataset|[Data](https://justwj.github.io/CLUIE-Net.html/)|[Paper](https://justwj.github.io/CLUIE-Net.html/)|1635 raw from SUIM*12 enhance results, QSmaps; CLUIE|
+||[Data]()|[Paper]()||
 
 Underwater NeRF
 ----------------------------
 |Dataset|Data|Paper|More|
 | --- | --- | --- | --- |
 |SeaThru-NeRF|[Data](https://sea-thru-nerf.github.io/)|[Paper](https://arxiv.org/pdf/2304.07743.pdf)||
+||[Data]()|[Paper]()||
+
+Other
+---------------------------
+|Dataset|Data|Paper|More|
+||[Data](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA)|[Paper](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA)|图像模糊度评价数据集|
 ||[Data]()|[Paper]()||
 
 #### UMIE dataset
