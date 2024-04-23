@@ -19,7 +19,8 @@ Underwater NeRF
 |Dataset|Data|Paper|More|
 | --- | --- | --- | --- |
 |SeaThru-NeRF|[Data](https://sea-thru-nerf.github.io/)|[Paper](https://arxiv.org/pdf/2304.07743.pdf)||
-||[Data]()|[Paper]()||
+|DRUVA|[Data](https://github.com/nishavarghese15/DRUVA)|[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Varghese_Self-supervised_Monocular_Underwater_Depth_Recovery_Image_Restoration_and_a_Real-sea_ICCV_2023_paper.pdf)|There are 20 videos in all, one for each artifact. The videos are approximately 1 minute long and contain an almost 360◦ azimuthal view of the artifacts at a depth of 0.5 meter to 4 meters from the camera.
+|
 
 Other
 ---------------------------
